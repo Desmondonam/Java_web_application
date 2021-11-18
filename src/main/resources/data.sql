@@ -1,0 +1,9 @@
+INSERT INTO USER VALUES (1, sysdate(), 'tyler', '1111', '000-00-0000'); 
+INSERT INTO USER VALUES (2, sysdate(), 'Haritha', '2222', '111-00-0000'); 
+INSERT INTO USER VALUES (3, sysdate(), 'Pranitha', '3333', '222-00-0000');  
+
+
+INSERT INTO POST VALUES (100,  'post 1', 1);
+INSERT INTO POST VALUES (101,  'post 2', 1);
+INSERT INTO POST VALUES (102,  'post 3', 2);
+INSERT INTO POST VALUES (103,  'post 4', 2);
